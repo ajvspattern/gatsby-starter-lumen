@@ -1,7 +1,7 @@
 ---
 template: post
 title: Sample Post
-slug: 'A post that''s the most, if you host it.'
+slug: 'A post that''s the most, if you host it. Prost!'
 draft: true
 date: 2019-02-19T21:00:56.582Z
 description: 'Since the beginning of time, mankind has wanted this post. '
